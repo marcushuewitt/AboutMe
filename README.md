@@ -17,3 +17,5 @@ On the MIS side, I've gained an abundant amount of experience in the area of Net
 The IT portion of my degree has trained me in a technical background including installation, configuration, backup/recovery, and baselining multiple Windows Operating Systems. I've become proficient in Microsoft Office Suite applications, Virtual Machines, Programming (Java, C++), Visual Studio, NetBeans, and a plethora of other skills. 
 
 With my dedication and the right company's vision, I believe I can make a great contribution to the overall success of the organization.
+
+Email:mhuewitt@gmail.com
